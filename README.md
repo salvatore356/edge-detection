@@ -26,13 +26,13 @@ To verify that `lib-turbojpeg` is installed correctly in the directory `/opt/hom
 
 With `lib-turbojpeg` installed on your system, you can now use the project and explore its magical image processing capabilities to create captivating and dreamy visuals. Have fun experimenting with Gaussian blur and unleashing your creativity to craft mesmerizing masterpieces!
 
-[![Watch the video](https://img.youtube.com/vi/tUR2h4mnPqc/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://img.youtube.com/vi/tUR2h4mnPqc/maxresdefault.jpg)](https://youtu.be/tUR2h4mnPqc)
 
 ### Sobel Filter
-![Sobel](https://github.com/salvatore356/edge-detection/blob/head/imgs/sobel.jpg?raw=true)
+![Sobel](https://github.com/salvatore356/edge-detection/blob/main/imgs/sobel.jpg?raw=true)
 
 ### Prewitt Filter
-![Prewitt](https://github.com/salvatore356/edge-detection/blob/head/imgs/prewitt.jpg?raw=true)
+![Prewitt](https://github.com/salvatore356/edge-detection/blob/main/imgs/prewitt.jpg?raw=true)
 
 ### Roberts Filter
-![Roberts](https://github.com/salvatore356/edge-detection/blob/head/imgs/roberts.jpg?raw=true)
+![Roberts](https://github.com/salvatore356/edge-detection/blob/main/imgs/roberts.jpg?raw=true)
