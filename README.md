@@ -26,6 +26,7 @@ To verify that `lib-turbojpeg` is installed correctly in the directory `/opt/hom
 
 With `lib-turbojpeg` installed on your system, you can now use the project and explore its magical image processing capabilities to create captivating and dreamy visuals. Have fun experimenting with Gaussian blur and unleashing your creativity to craft mesmerizing masterpieces!
 
+### Click to watch!
 [![Watch the video](https://img.youtube.com/vi/tUR2h4mnPqc/maxresdefault.jpg)](https://youtu.be/tUR2h4mnPqc)
 
 ### Sobel Filter
